@@ -31,9 +31,9 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-html, body {
+/*html, body {
     height: 100%;
-} */
+}
   
 body {
     display: -ms-flexbox;
@@ -59,3 +59,4 @@ h1 {
 .cursorPointer:hover {
     cursor: pointer;
 }
+*/
