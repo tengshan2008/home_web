@@ -30,3 +30,32 @@
     padding: 5px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+html, body {
+    height: 100%;
+} */
+  
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    background: url("./bg.jpg");
+    background-size: cover;
+}
+  
+h1 {
+    color: #ffffff;
+}
+  
+.card {
+    opacity: 0.7;
+}
+
+.card:hover {
+    opacity: 1.0;
+}
+
+.cursorPointer:hover {
+    cursor: pointer;
+}
