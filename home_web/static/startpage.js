@@ -14,7 +14,7 @@ const entries = [
             { name: "app5", url: "https://www.baidu.com", icon: "fab fa-confluence" },
             { name: "app6", url: "https://www.baidu.com", icon: "fab fa-d-and-d" },
             { name: "GitHub", url: "https://www.github.com", icon: "fab fa-github" },
-            { name: "Blog", url: "https://www.vuepress.com", icon: "fab fa-vuejs" },
+            { name: "Blog", url: "https://www.vuepress.com", icon: "fas fa-blog" },
             { name: "app9", url: "https://www.baidu.com", icon: "fab fa-amazon" },
         ]
     },
@@ -24,7 +24,7 @@ const entries = [
 const groupMode = false;
 
 // Text above the search box
-const welcomeText = "我的主页!";
+const welcomeText = "Applications";
 
 //#############################################################################
 //# Do not change anything below this line
