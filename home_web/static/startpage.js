@@ -6,15 +6,15 @@ const entries = [
             { name: "filebrowser", url: "http://matrixgo.dynv6.net:8001", icon: "fas fa-folder-open" },
             { name: "aria2ng", url: "http://matrixgo.dynv6.net:6880", icon: "fas fa-cloud-download-alt" },
             { name: "syncthing", url: "http://matrixgo.dynv6.net:8384", icon: "fas fa-sync-alt" },
-            { name: "pihole", url: "http://matrixgo.dynv6.net:8034/admin", icon: "fab fa-spotify" },
-            { name: "plex", url: "http://matrixgo.dynv6.net:32400/manage", icon: "fas fa-photo-video" },
-            // { name: "app6", url: "https://www.baidu.com", icon: "fab fa-d-and-d" },
-            // { name: "app9", url: "https://www.baidu.com", icon: "fab fa-amazon" },
+            { name: "Pi-hole", url: "http://matrixgo.dynv6.net:8034/admin", icon: "fab fa-spotify" },
+            { name: "PLEX", url: "http://matrixgo.dynv6.net:32400/manage", icon: "far fa-play-circle" },
+            { name: "Docker", url: "http://hub.docker.com", icon: "fab fa-docker" },
+            { name: "Raspberry Pi", url: "https://www.baidu.com", icon: "fab fa-raspberry-pi" },
         ]
     }, {
         group: "Web server",
         items: [
-            { name: "GitHub", url: "https://www.github.com", icon: "fab fa-github" },
+            { name: "GitHub", url: "https://github.com/tengshan2008", icon: "fab fa-github" },
             { name: "Blog", url: "https://tengshan2008.github.io", icon: "fas fa-blog" },
         ]
     },
