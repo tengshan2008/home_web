@@ -35,7 +35,5 @@ h1 {
 }
 
 .fa-4x.iconIcon.icon.pi-hole::before {
-    width:64px;
-    content: url('https://api.iconify.design/mdi-pi-hole.svg?color=%23007bff&height=64');
-    height: 64px;
+    background: url('https://api.iconify.design/mdi-pi-hole.svg?color=%23007bff') no-repeat center center / contain;
 }
