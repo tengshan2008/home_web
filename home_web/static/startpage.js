@@ -6,7 +6,7 @@ const entries = [
             { name: "filebrowser", url: "http://matrixgo.dynv6.net:8001", icon: "fas fa-folder-open" },
             { name: "aria2ng", url: "http://matrixgo.dynv6.net:6880", icon: "fas fa-cloud-download-alt" },
             { name: "syncthing", url: "http://matrixgo.dynv6.net:8384", icon: "fas fa-sync-alt" },
-            { name: "Pi-hole", url: "http://matrixgo.dynv6.net:8034/admin", icon: "far fa-list-alt" },
+            { name: "Pi-hole", url: "http://matrixgo.dynv6.net:8093/admin", icon: "far fa-list-alt" },
             { name: "PLEX", url: "http://matrixgo.dynv6.net:32400/manage", icon: "far fa-play-circle" },
             { name: "Docker", url: "http://hub.docker.com", icon: "fab fa-docker" },
             { name: "Raspberry Pi", url: "https://www.baidu.com", icon: "fab fa-raspberry-pi" },
