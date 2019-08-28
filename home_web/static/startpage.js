@@ -7,9 +7,9 @@ const entries = [
             { name: "aria2ng", url: "http://matrixgo.dynv6.net:6880", icon: "fas fa-cloud-download-alt" },
             { name: "syncthing", url: "http://matrixgo.dynv6.net:8384", icon: "fas fa-sync-alt" },
             { name: "pihole", url: "http://matrixgo.dynv6.net:8034/admin", icon: "fab fa-spotify" },
-            { name: "app5", url: "https://www.baidu.com", icon: "fab fa-confluence" },
-            { name: "app6", url: "https://www.baidu.com", icon: "fab fa-d-and-d" },
-            { name: "app9", url: "https://www.baidu.com", icon: "fab fa-amazon" },
+            { name: "plex", url: "http://matrixgo.dynv6.net:32400/manage", icon: "fas fa-photo-video" },
+            // { name: "app6", url: "https://www.baidu.com", icon: "fab fa-d-and-d" },
+            // { name: "app9", url: "https://www.baidu.com", icon: "fab fa-amazon" },
         ]
     }, {
         group: "Web server",
